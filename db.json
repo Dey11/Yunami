@@ -1,0 +1,221 @@
+[
+    {
+        "name": "Dey",
+        "id": "366638675607420929",
+        "discriminator": "6911",
+        "amount": 3295413,
+        "guildName": "Grandmasters",
+        "frequency": "weekly",
+        "reminderPref": "ping"
+    },
+    {
+        "name": "ChefKnife",
+        "id": "928623304179322900",
+        "discriminator": "5946",
+        "amount": 175000,
+        "guildName": "Grandmasters",
+        "frequency": "weekly",
+        "reminderPref": "ping"
+    },
+    {
+        "name": "Mania",
+        "id": "757597518862352425",
+        "discriminator": "4133",
+        "amount": -350000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "21..2.16...1.2211....730-06",
+        "id": "695186287682125864",
+        "discriminator": "8860",
+        "amount": -327778,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "thefatboi",
+        "id": "807632036323393548",
+        "discriminator": "5509",
+        "amount": 123000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Unexpectedly",
+        "id": "767224482284175410",
+        "discriminator": "0925",
+        "amount": 175000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Luki",
+        "id": "708944990461493258",
+        "discriminator": "4372",
+        "amount": -175000,
+        "guildName": "Grandmasters",
+        "frequency": "weekly",
+        "reminderPref": "ping"
+    },
+    {
+        "name": "ryuk",
+        "id": "753668849894686831",
+        "discriminator": "8063",
+        "amount": 178000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "DEAD POOL",
+        "id": "765197895552335894",
+        "discriminator": "6086",
+        "amount": 240000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Ryuuu",
+        "id": "320085757748314117",
+        "discriminator": "2296",
+        "amount": 875000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Dan i",
+        "id": "702688334564032551",
+        "discriminator": "5353",
+        "amount": 0,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Viper㐅",
+        "id": "502458682483671075",
+        "discriminator": "1614",
+        "amount": 2049000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Ram Bhakt",
+        "id": "742984455173701673",
+        "discriminator": "3943",
+        "amount": 300000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Pani Poni frisco",
+        "id": "317015703729209344",
+        "discriminator": "3545",
+        "amount": 175000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Romeo_<3",
+        "id": "594780562162450442",
+        "discriminator": "2433",
+        "amount": 700069,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Violetvanilla",
+        "id": "878692316053897248",
+        "discriminator": "7607",
+        "amount": 70010,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Métakino",
+        "id": "326806685895098378",
+        "discriminator": "1206",
+        "amount": 175000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "DistortedEgo",
+        "id": "831552585625370676",
+        "discriminator": "2084",
+        "amount": 13037,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Tej",
+        "id": "702289767299153950",
+        "discriminator": "4433",
+        "amount": 650000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "kitKat",
+        "id": "724639732000227409",
+        "discriminator": "2440",
+        "amount": -175000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "ProPyro135",
+        "id": "320664459142234112",
+        "discriminator": "9062",
+        "amount": 150000,
+        "guildName": "Grandmasters",
+        "frequency": "daily",
+        "reminderPref": "dm"
+    },
+    {
+        "name": "𝕾𝓽𝔂𝓻𝓮",
+        "id": "532603636740784128",
+        "discriminator": "6514",
+        "amount": 1150000,
+        "guildName": "Grandmasters",
+        "frequency": "",
+        "reminderPref": ""
+    },
+    {
+        "name": "Ginger",
+        "id": "741170371658645606",
+        "discriminator": "5457",
+        "amount": -217715,
+        "guildName": "Grandmasters"
+    },
+    {
+        "name": "The Degenerate weeb",
+        "id": "689037555068305409",
+        "discriminator": "3364",
+        "amount": -120405,
+        "guildName": "Grandmasters"
+    },
+    {
+        "name": "Chub",
+        "id": "773102557462790145",
+        "discriminator": "3403",
+        "amount": -75000,
+        "guildName": "Grandmasters"
+    }
+]
